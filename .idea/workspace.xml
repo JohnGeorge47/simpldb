@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2805b8ea-6605-4a07-8bf7-0c5c93174733" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="ProjectId" id="1YGcq0pnUGoNzjDPlCjZNuAf9Bu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/notifix" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="242" key="FileChooserDialogImpl" timestamp="1582572662073">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="242" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1582572662073" />
+    <state x="571" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1582648277198">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="571" y="45" width="840" height="1034" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1582648277198" />
+  </component>
+</project>
